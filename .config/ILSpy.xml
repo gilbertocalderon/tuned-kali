@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ILSpy version="7.2.0.0">
+  <AssemblyLists>
+    <List name="(Default)">
+      <Assembly>/opt/ILSpy/System.Private.CoreLib.dll</Assembly>
+      <Assembly>/opt/ILSpy/System.Private.Uri.dll</Assembly>
+      <Assembly>/opt/ILSpy/System.Linq.dll</Assembly>
+      <Assembly>/opt/ILSpy/System.Private.Xml.dll</Assembly>
+      <Assembly>/home/kali/htb/cascade/smb/Audit/CascAudit.exe</Assembly>
+    </List>
+  </AssemblyLists>
+  <SessionSettings>
+    <FilterSettings>
+      <ShowAPILevel>1</ShowAPILevel>
+      <Language>C#</Language>
+      <LanguageVersion>CSharp8_0</LanguageVersion>
+    </FilterSettings>
+    <ActiveAssemblyList>(Default)</ActiveAssemblyList>
+    <ActiveTreeViewPath>
+      <Node>\x002Fhome\x002Fkali\x002Fhtb\x002Fcascade\x002Fsmb\x002FAudit\x002FCascCrypto\x002Edll</Node>
+      <Node>CascCrypto</Node>
+      <Node>Crypto</Node>
+    </ActiveTreeViewPath>
+    <ActiveAutoLoadedAssembly>/home/kali/htb/cascade/smb/Audit/CascCrypto.dll</ActiveAutoLoadedAssembly>
+    <WindowState>Maximized</WindowState>
+    <WindowBounds>6, 36, 1706, 878</WindowBounds>
+    <SplitterPosition>0.1837933059307105</SplitterPosition>
+    <TopPaneSplitterPosition>0.3</TopPaneSplitterPosition>
+    <BottomPaneSplitterPosition>0.3</BottomPaneSplitterPosition>
+    <SelectedSearchMode>TypeAndMember</SelectedSearchMode>
+    <Theme>Dark</Theme>
+  </SessionSettings>
+  <UpdateSettings>
+    <AutomaticUpdateCheckEnabled>true</AutomaticUpdateCheckEnabled>
+    <LastSuccessfulUpdateCheck>2024-12-28T17:40:28.4408043Z</LastSuccessfulUpdateCheck>
+  </UpdateSettings>
+  <DecompilerSettings NativeIntegers="true" CovariantReturns="true" InitAccessors="true" RecordClasses="true" WithExpressions="true" UsePrimaryConstructorSyntax="true" FunctionPointers="true" SwitchExpressions="true" FileScopedNamespaces="true" AnonymousMethods="true" AnonymousTypes="true" UseLambdaSyntax="true" ExpressionTrees="true" YieldReturn="true" Dynamic="true" AsyncAwait="true" AwaitInCatchFinally="true" AsyncEnumerator="true" DecimalConstants="true" FixedBuffers="true" StringConcat="true" LiftNullables="true" NullPropagation="true" AutomaticProperties="true" GetterOnlyAutomaticProperties="true" AutomaticEvents="true" UsingStatement="true" UseEnhancedUsing="true" AlwaysUseBraces="true" ForEachStatement="true" ForEachWithGetEnumeratorExtension="true" LockStatement="true" SwitchStatementOnString="true" SparseIntegerSwitch="true" UsingDeclarations="true" ExtensionMethods="true" QueryExpressions="true" UseImplicitMethodGroupConversion="true" AlwaysCastTargetsOfExplicitInterfaceImplementationCalls="false" AlwaysQualifyMemberReferences="false" AlwaysShowEnumMemberValues="false" UseDebugSymbols="true" ArrayInitializers="true" ObjectOrCollectionInitializers="true" DictionaryInitializers="true" ExtensionMethodsInCollectionInitializers="true" UseRefLocalsForAccurateOrderOfEvaluation="true" RefExtensionMethods="true" StringInterpolation="true" ShowXmlDocumentation="true" UseExpressionBodyForCalculatedGetterOnlyProperties="true" OutVariables="true" Discards="true" IntroduceRefModifiersOnStructs="true" IntroduceReadonlyAndInModifiers="true" ReadOnlyMethods="true" AsyncUsingAndForEachStatement="true" IntroduceUnmanagedConstraint="true" StackAllocInitializers="true" PatternBasedFixedStatement="true" TupleTypes="true" ThrowExpressions="true" TupleConversions="true" TupleComparisons="true" NamedArguments="true" NonTrailingNamedArguments="true" OptionalArguments="true" LocalFunctions="true" Deconstruction="true" PatternMatching="true" StaticLocalFunctions="true" Ranges="true" NullableReferenceTypes="true" RemoveDeadCode="false" RemoveDeadStores="false" ApplyWindowsRuntimeProjections="true" ForStatement="true" DoWhileStatement="true" SeparateLocalVariableDeclarations="false" UseSdkStyleProjectFormat="true" UseNestedDirectoriesForNamespaces="false" AggressiveInlining="false" />
+  <DisplaySettings Font="Noto Sans" FontSize="12" ShowLineNumbers="false" ShowDebugInfo="false" ShowMetadataTokens="false" ShowMetadataTokensInBase10="false" EnableWordWrap="false" SortResults="true" FoldBraces="false" ExpandMemberDefinitions="false" ExpandUsingDeclarations="false" IndentationUseTabs="true" IndentationSize="4" IndentationTabSize="4" HighlightMatchingBraces="true" />
+  <MiscSettings AllowMultipleInstances="false" LoadPreviousAssemblies="true" />
+</ILSpy>
