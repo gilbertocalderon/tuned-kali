@@ -1,0 +1,28 @@
+[window]
+padding = { x = 15, y = 15 }
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Medium" }
+bold = { family = "JetBrainsMono Nerd Font", style = "Bold" }
+italic = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+
+[colors]
+cursor = { text = "#c0caf5", cursor = "#c0caf5" }
+
+    [colors.primary]
+        foreground = "#EEFFFF"
+        background = "#212121"
+
+    [colors.normal] 
+        black = "#545454"
+        red = "#ff5370"
+        green = "#c3e88d"
+        yellow = "#ffcb6b"
+        blue = "#82aaff"
+        magenta = "#c792ea"
+        cyan = "#89ddff"
+        white = "#ffffff"
+
+[cursor]
+style = { shape = "Beam", blinking = "Never" }
+vi_mode_style = { shape = "Beam", blinking = "Never" }
